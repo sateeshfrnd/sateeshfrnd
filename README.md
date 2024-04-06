@@ -1,4 +1,5 @@
-![](https://hit.yhype.me/github/profile?user_id=8160366)
+![Profile Views](https://komarev.com/ghpvc/?username=sateeshfrnd&label=Profile+Views&color=blueviolet)
+
 
 - 👋 Hi, I’m @sateeshfrnd
 - 👀 I’m interested in ...
