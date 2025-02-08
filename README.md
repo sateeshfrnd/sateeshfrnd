@@ -30,7 +30,8 @@ Hi, I'm **Satish Kumar**, a Data Engineer. I specialize in building scalable end
 ## 📌 My Certifications and Courses
   - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/6AKVKLNH22FE)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c1686776-3852-4571-942f-863e0807fff7?source=linked_in_profile)
-  - [Programming for Data Science](https://www.udacity.com/certificate/WVXW6AKG)
+  - [Programming for Data Science](www.udacity.com/certificate/e/788b7446-892b-11ea-a688-d30b543a6e60)
+  - [Cloud DevOps Engineer](www.udacity.com/certificate/e/00b66238-0b63-11ee-8a2e-1f704219f70f)
     
 ## 📬 Connect With Me
 - 💼 LinkedIn: [Satish Kumar](https://www.linkedin.com/in/satish-kumar-2b198018)
