@@ -27,6 +27,11 @@ Hi, I'm **Satish Kumar**, a Data Engineer. I specialize in building scalable end
 - **Cloud/DevOps**: Git, Jenkins, Docker
 - **Tools**: Jira, Confluence
 
+## 📌 My Certifications and Courses
+  - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/6AKVKLNH22FE)
+  - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c1686776-3852-4571-942f-863e0807fff7?source=linked_in_profile)
+  - [Programming for Data Science](https://www.udacity.com/certificate/WVXW6AKG)
+    
 ## 📬 Connect With Me
 - 💼 LinkedIn: [Satish Kumar](https://www.linkedin.com/in/satish-kumar-2b198018)
 - ✉️ Email: [sateeshfrnd@gmail.com](mailto:sateeshfrnd@gmail.com)
