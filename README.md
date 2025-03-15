@@ -13,7 +13,7 @@ Hi, I'm **Satish Kumar**, a Data Engineer. I specialize in building scalable end
 - How to architectect better data system
 
 ## ✍️ Blog Posts & Learning
-- [My Medium Blog](https://medium.com/@sateeshfrnf)
+- [My Medium Blog](https://medium.com/@sateeshfrnd)
 - [LinkedIn Articles](https://www.linkedin.com/in/satish-kumar-2b198018/recent-activity/all/)
 - [My Wordpress](www.bigdataplaybook.wordpress.com)
 
