@@ -15,7 +15,7 @@ Hi, I'm **Satish Kumar**, a Data Engineer. I specialize in building scalable end
 ## ✍️ Blog Posts & Learning
 - [My Medium Blog](https://medium.com/@sateeshfrnd)
 - [LinkedIn Articles](https://www.linkedin.com/in/satish-kumar-2b198018/recent-activity/all/)
-- [My Wordpress](www.bigdataplaybook.wordpress.com)
+- [My Wordpress](https://datatechcanvas.wordpress.com/)
 
 ## 📚 Skills & Tech Stack
 - **Programming Languages**: HTML/CSS/JavaScript, Java, Python, SQL, Scala
